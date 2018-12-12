@@ -4,7 +4,7 @@ import interfaces.Produto;
 public class GarrafaPlastica implements Produto{
     //Atributos
     String nome = "GARRAFA PLASTICA";
-    String descricao = "GARRA PLÁTICA 1L AMARELA";
+    String descricao = "GARRAFA PLÁTICA 1L AMARELA";
     float preco = (float)(55.00);
     
     //Metodos
